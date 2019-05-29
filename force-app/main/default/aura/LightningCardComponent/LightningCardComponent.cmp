@@ -4,7 +4,7 @@
       <lightning:button label="New" />
     </aura:set>
     <p class="slds-p-horizontal_small">
-      Card Body (custom component)
+      Card Body
     </p>
   </lightning:card>
 </aura:component>
